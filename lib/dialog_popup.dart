@@ -44,9 +44,6 @@ class _DialogPopupState extends State<DialogPopup> with TickerProviderStateMixin
                   horizontal: 20,
                 ),
                 contentPadding: EdgeInsets.all(20),
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(18.0),
-                ),
                 backgroundColor: Colors.cyan,
               ),
             ),
